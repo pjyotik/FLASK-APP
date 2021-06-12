@@ -60,3 +60,13 @@
 5. Run the application
 
     $ python run.py
+    
+    
+6 Deploy the application to heroku
+
+    - Login to Heroku [ $ heroku login ]
+    - Create the App  [ $ heroku create]
+    - Rename the App  [ $ heroku rename demo-flask-app]
+    - Push the main/master branch to heroku [ $ git push heroku main ]
+    
+    URL : https://my-demo-flask-app.herokuapp.com/
