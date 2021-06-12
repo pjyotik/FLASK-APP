@@ -6,7 +6,7 @@
 
     [Windows System]
     
-    $ virtualenv --python C:\Path\To\Python\python.exe venv
+    $ virtualenv --python <PATH>\Python\python.exe venv
     
     $ .\venv\Scripts\activate
     
